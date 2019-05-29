@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@svgr/babel-plugin-svg-dynamic-title": "^4.3.0",
+    "rxjs": "^6.5.2"
+  }
+}
